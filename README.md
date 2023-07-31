@@ -62,7 +62,7 @@
 
 # Week3
 
-> Ice Breaking & Go 기초 문법
+> 알고리즘 문풀을 통한 Go 연습 (1/2)
 
 <div align='center'>
 
