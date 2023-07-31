@@ -6,8 +6,8 @@
 
 ||Date|Agenda|
 |:-:|:-:|-|
-|[Week1](https://github.com/BOAZ-bigdata/23_2_Golang#Week1-&-Week2)|2023/07/17 20:00|:o: Ice Breaking</br>:o: Go 기초 문법 (1/2)|
-|[Week2](https://github.com/BOAZ-bigdata/23_2_Golang#Week1-&-Week2)|2023/07/24 21:00|:o: Go 기초 문법 (2/2)|
+|[Week1](https://github.com/BOAZ-bigdata/23_2_Golang#week1--week2)|2023/07/17 20:00|:o: Ice Breaking</br>:o: Go 기초 문법 (1/2)|
+|[Week2](https://github.com/BOAZ-bigdata/23_2_Golang#week1--week2)|2023/07/24 21:00|:o: Go 기초 문법 (2/2)|
 |Week3|2023/08/04 21:00|:o: 알고리즘 문풀을 통한 Go 연습 (1/2)|
 |Week4|2023/08/11 21:00|:o: 알고리즘 문풀을 통한 Go 연습 (2/2)|
 |Week5|2023/08/18 21:00|:o: 실전 응용 찍먹 프로젝트 (1/3)|
@@ -47,15 +47,15 @@
 
 |Name|Link|
 |:-:|-|
-|금나연|[NayeonKeum/Golang-Study](https://github.com/NayeonKeum/Golang-Study/blob/main/week1/README.md)|
+|금나연|:o: [NayeonKeum/Golang-Study](https://github.com/NayeonKeum/Golang-Study/blob/main/week1/README.md)|
 |김수빈||
-|김주연|[JYKim1124/BOAZ_GolangStudy](https://github.com/JYKim1124/BOAZ_GolangStudy)
-|안지완|[Go Lang](https://summer-carpenter-efa.notion.site/Go-Lang-755ce93a9daa48498d9315d1b911bbd1)
-|오효근|[Go (1)](https://zerohertz.github.io/go-1/)</br>[Go (2)](https://zerohertz.github.io/go-2/)|
-|이선의|[sunnyineverywhere/til-log](https://github.com/sunnyineverywhere/til-log/blob/main/go/Grammar.md)|
+|김주연|:o: [JYKim1124/BOAZ_GolangStudy](https://github.com/JYKim1124/BOAZ_GolangStudy)
+|안지완|:o: [Go Lang](https://summer-carpenter-efa.notion.site/Go-Lang-755ce93a9daa48498d9315d1b911bbd1)
+|오효근|:o: [Go (1)](https://zerohertz.github.io/go-1/)</br>:o: [Go (2)](https://zerohertz.github.io/go-2/)|
+|이선의|:o: [sunnyineverywhere/til-log](https://github.com/sunnyineverywhere/til-log/blob/main/go/Grammar.md)|
 |이정현||
-|임태빈|[https://github.com/tae2089/Algorithm_go](https://github.com/tae2089/Algorithm_go)|
-|지유리|[go 기본 문법](https://miniature-alfalfa-c84.notion.site/go-8d960f8ce1f24690ad7de316d2f05cc1)|
-|최리|[Go 기본 문법 4](https://rchoi-19-4-2.tistory.com/m/198)
+|임태빈|:o: [https://github.com/tae2089/Algorithm_go](https://github.com/tae2089/Algorithm_go)|
+|지유리|:o: [go 기본 문법](https://miniature-alfalfa-c84.notion.site/go-8d960f8ce1f24690ad7de316d2f05cc1)|
+|최리|:o: [Go 기본 문법 4](https://rchoi-19-4-2.tistory.com/m/198)
 
 </div>
