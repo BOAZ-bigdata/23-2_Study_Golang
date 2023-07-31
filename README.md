@@ -47,7 +47,7 @@
 
 |Name|Link|
 |:-:|-|
-|금나연|:o: [NayeonKeum/Golang-Study](https://github.com/NayeonKeum/Golang-Study/blob/main/week1/README.md)|
+|금나연|:o: [NayeonKeum/Golang-Study/week1](https://github.com/NayeonKeum/Golang-Study/blob/main/week1/README.md)|
 |김수빈||
 |김주연|:o: [JYKim1124/BOAZ_GolangStudy](https://github.com/JYKim1124/BOAZ_GolangStudy)
 |안지완|:o: [Go Lang](https://summer-carpenter-efa.notion.site/Go-Lang-755ce93a9daa48498d9315d1b911bbd1)
@@ -68,7 +68,7 @@
 
 |Name|Link|
 |:-:|-|
-|금나연||
+|금나연|:o: [NayeonKeum/Golang-Study/week2](https://github.com/NayeonKeum/Golang-Study/blob/main/week2)|
 |김수빈||
 |김주연||
 |안지완||
