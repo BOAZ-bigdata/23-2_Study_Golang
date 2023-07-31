@@ -75,7 +75,7 @@
 |오효근||
 |이선의||
 |이정현||
-|임태빈||
+|임태빈|:o: [https://github.com/tae2089/Algorithm_go](https://github.com/tae2089/Algorithm_go/tree/main/backjun)|
 |지유리||
 |최리||
 
