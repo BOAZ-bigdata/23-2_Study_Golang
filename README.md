@@ -23,12 +23,11 @@
         <tr>
             <td align="center" valign="top" width="14.28%"><a href="https://github.com/Zerohertz"><img src="https://avatars.githubusercontent.com/u/42334717?v=4" width="100px;"/><br/><sub><b>오효근</b></sub></a><br/></td>
             <td align="center" valign="top" width="14.28%"><a href="https://github.com/NayeonKeum"><img src="https://avatars.githubusercontent.com/u/68985625?v=4" width="100px;"/><br/><sub><b>금나연</b></sub></a><br/></td>
-            <td align="center" valign="top" width="14.28%"><a href="https://github.com/sudosubin"><img src="https://avatars.githubusercontent.com/u/32478597?v=4" width="100px;"/><br/><sub><b>김수빈</b></sub></a><br/></td>
             <td align="center" valign="top" width="14.28%"><a href="https://github.com/JYKim1124"><img src="https://avatars.githubusercontent.com/u/123856816?v=4" width="100px;"/><br/><sub><b>김주연</b></sub></a><br/></td>
             <td align="center" valign="top" width="14.28%"><a href="https://github.com/synoti21"><img src="https://avatars.githubusercontent.com/u/58936172?v=4" width="100px;"/><br/><sub><b>안지완</b></sub></a><br/></td>
+            <td align="center" valign="top" width="14.28%"><a href="https://github.com/sunnyineverywhere"><img src="https://avatars.githubusercontent.com/u/80109963?v=4" width="100px;"/><br/><sub><b>이선의</b></sub></a><br/></td>
         </tr>
         <tr>
-            <td align="center" valign="top" width="14.28%"><a href="https://github.com/sunnyineverywhere"><img src="https://avatars.githubusercontent.com/u/80109963?v=4" width="100px;"/><br/><sub><b>이선의</b></sub></a><br/></td>
             <td align="center" valign="top" width="14.28%"><a href="https://github.com/jeonghyeonee"><img src="https://avatars.githubusercontent.com/u/33801356?v=4" width="100px;"/><br/><sub><b>이정현</b></sub></a><br/></td>
             <td align="center" valign="top" width="14.28%"><a href="https://github.com/tae2089"><img src="https://avatars.githubusercontent.com/u/43431864?v=4" width="100px;"/><br/><sub><b>임태빈</b></sub></a><br/></td>
             <td align="center" valign="top" width="14.28%"><a href="https://github.com/ur2e"><img src="https://avatars.githubusercontent.com/u/45191069?v=4" width="100px;"/><br/><sub><b>지유리</b></sub></a><br/></td>
@@ -48,13 +47,12 @@
 |Name|Link|
 |:-:|-|
 |금나연|:o: [NayeonKeum/Golang-Study/week1](https://github.com/NayeonKeum/Golang-Study/blob/main/week1/README.md)|
-|김수빈||
 |김주연|:o: [JYKim1124/BOAZ_GolangStudy](https://github.com/JYKim1124/BOAZ_GolangStudy)
 |안지완|:o: [Go Lang](https://summer-carpenter-efa.notion.site/Go-Lang-755ce93a9daa48498d9315d1b911bbd1)
 |오효근|:o: [Go (1)](https://zerohertz.github.io/go-1/)</br>:o: [Go (2)](https://zerohertz.github.io/go-2/)|
 |이선의|:o: [sunnyineverywhere/til-log](https://github.com/sunnyineverywhere/til-log/blob/main/go/Grammar.md)|
 |이정현||
-|임태빈|:o: [https://github.com/tae2089/Algorithm_go](https://github.com/tae2089/Algorithm_go)|
+|임태빈|:o: [tae2089/Algorithm_go](https://github.com/tae2089/Algorithm_go)|
 |지유리|:o: [go 기본 문법](https://miniature-alfalfa-c84.notion.site/go-8d960f8ce1f24690ad7de316d2f05cc1)|
 |최리|:o: [Go 기본 문법 4](https://rchoi-19-4-2.tistory.com/m/198)
 
@@ -66,17 +64,16 @@
 
 <div align='center'>
 
-|Name|Link|
-|:-:|-|
-|금나연|:o: [NayeonKeum/Golang-Study/week2](https://github.com/NayeonKeum/Golang-Study/blob/main/week2)|
-|김수빈||
-|김주연||
-|안지완||
-|오효근||
-|이선의||
-|이정현||
-|임태빈|:o: [https://github.com/tae2089/Algorithm_go](https://github.com/tae2089/Algorithm_go/tree/main/backjun)|
-|지유리||
-|최리||
+|Name|BOJ No.|Link|
+|:-:|:-:|-|
+|금나연|:hammer: [1427](https://www.acmicpc.net/problem/1427)<br>:hammer: [10815](https://www.acmicpc.net/problem/10815)|:o: [NayeonKeum/Golang-Study/week2](https://github.com/NayeonKeum/Golang-Study/blob/main/week2)|
+|김주연|:hammer: [11004](https://www.acmicpc.net/problem/11004)<br>:hammer: [1476](https://www.acmicpc.net/problem/1476)||
+|안지완|:hammer: [1476](https://www.acmicpc.net/problem/1476)<br>:hammer: [1439](https://www.acmicpc.net/problem/1439)||
+|오효근|:hammer: [1439](https://www.acmicpc.net/problem/1439)<br>:hammer: [2563](https://www.acmicpc.net/problem/2563)<br>:hammer: [10815](https://www.acmicpc.net/problem/10815)<br>:hammer: [11004](https://www.acmicpc.net/problem/11004)||
+|이선의|:hammer: [2563](https://www.acmicpc.net/problem/2563)<br>:hammer: [2941](https://www.acmicpc.net/problem/2941)||
+|이정현|:hammer: [2941](https://www.acmicpc.net/problem/2941)<br>:hammer: [4673](https://www.acmicpc.net/problem/4673)||
+|임태빈|:hammer: [4673](https://www.acmicpc.net/problem/4673)<br>:hammer: [1475](https://www.acmicpc.net/problem/1475)|:o: [tae2089/Algorithm_go](https://github.com/tae2089/Algorithm_go/tree/main/backjun)|
+|지유리|:hammer: [1475](https://www.acmicpc.net/problem/1475)<br>:hammer: [1789](https://www.acmicpc.net/problem/1789)||
+|최리|:hammer: [1789](https://www.acmicpc.net/problem/1789)<br>:hammer: [1427](https://www.acmicpc.net/problem/1427)||
 
 </div>
