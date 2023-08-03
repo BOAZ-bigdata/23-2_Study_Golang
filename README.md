@@ -51,7 +51,7 @@
 |안지완|[Go Lang](https://summer-carpenter-efa.notion.site/Go-Lang-755ce93a9daa48498d9315d1b911bbd1)
 |오효근|[Go (1)](https://zerohertz.github.io/go-1/)</br>[Go (2)](https://zerohertz.github.io/go-2/)|
 |이선의|[sunnyineverywhere/til-log](https://github.com/sunnyineverywhere/til-log/blob/main/go/Grammar.md)|
-|이정현||
+|이정현|[Go Intro](https://jeonghyeonee.github.io/ko/go/2023/08/01/Go-Intro.html)|
 |임태빈|[tae2089/Algorithm_go](https://github.com/tae2089/Algorithm_go)|
 |지유리|[go 기본 문법](https://miniature-alfalfa-c84.notion.site/go-8d960f8ce1f24690ad7de316d2f05cc1)|
 |최리|[Go 기본 문법 4](https://rchoi-19-4-2.tistory.com/m/198)
@@ -71,7 +71,7 @@
 |안지완|[1476](https://www.acmicpc.net/problem/1476)<br>[1439](https://www.acmicpc.net/problem/1439)||
 |오효근|[1439](https://www.acmicpc.net/problem/1439)<br>[2563](https://www.acmicpc.net/problem/2563)<br>[10815](https://www.acmicpc.net/problem/10815)<br>[11004](https://www.acmicpc.net/problem/11004)|[BOJ: 1439](https://zerohertz.github.io/boj-1439/)</br>[BOJ: 2563](https://zerohertz.github.io/boj-2563/)</br>[BOJ: 10815](https://zerohertz.github.io/boj-10815/)</br>[BOJ: 11004](https://zerohertz.github.io/boj-11004/)|
 |이선의|[2563](https://www.acmicpc.net/problem/2563)<br>[2941](https://www.acmicpc.net/problem/2941)||
-|이정현|[2941](https://www.acmicpc.net/problem/2941)<br>[4673](https://www.acmicpc.net/problem/4673)||
+|이정현|[2941](https://www.acmicpc.net/problem/2941)<br>[4673](https://www.acmicpc.net/problem/4673)|[2941](https://github.com/jeonghyeonee/Go/tree/634602a2e905d0a3079eb65904f37697137f9566/baekjoon/2941)<br>[4673](https://github.com/jeonghyeonee/Go/tree/634602a2e905d0a3079eb65904f37697137f9566/baekjoon/4673)|
 |임태빈|[4673](https://www.acmicpc.net/problem/4673)<br>[1475](https://www.acmicpc.net/problem/1475)|[tae2089/Algorithm_go](https://github.com/tae2089/Algorithm_go/tree/main/backjun)|
 |지유리|[1475](https://www.acmicpc.net/problem/1475)<br>[1789](https://www.acmicpc.net/problem/1789)||
 |최리|[1789](https://www.acmicpc.net/problem/1789)<br>[1427](https://www.acmicpc.net/problem/1427)||
