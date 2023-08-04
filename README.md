@@ -89,7 +89,7 @@
 |금나연|[1206](https://www.acmicpc.net/problem/1206)<br>[1283](https://www.acmicpc.net/problem/1283)||
 |김주연|[1283](https://www.acmicpc.net/problem/1283)<br>[1254](https://www.acmicpc.net/problem/1254)||
 |안지완|[1254](https://www.acmicpc.net/problem/1254)<br>[1024](https://www.acmicpc.net/problem/1024)||
-|오효근|[1024](https://www.acmicpc.net/problem/1024)<br>[1406](https://www.acmicpc.net/problem/1406)||
+|오효근|[1024](https://www.acmicpc.net/problem/1024)<br>[1406](https://www.acmicpc.net/problem/1406)|[BOJ: 1024](https://zerohertz.github.io/boj-1024/)</br>BOJ: 1406|
 |이선의|[1406](https://www.acmicpc.net/problem/1406)<br>[1198](https://www.acmicpc.net/problem/1198)||
 |이정현|[1198](https://www.acmicpc.net/problem/1198)<br>[1183](https://www.acmicpc.net/problem/1183)||
 |임태빈|[1183](https://www.acmicpc.net/problem/1183)<br>[1326](https://www.acmicpc.net/problem/1326)||
