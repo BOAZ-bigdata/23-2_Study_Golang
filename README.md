@@ -86,14 +86,14 @@
 
 |Name|BOJ No.|Link|
 |:-:|:-:|-|
-|금나연|||
-|김주연|||
-|안지완|||
-|오효근|||
-|이선의|||
-|이정현|||
-|임태빈|||
-|지유리|||
-|최리|||
+|금나연|[1206](https://www.acmicpc.net/problem/1206)<br>[1283](https://www.acmicpc.net/problem/1283)||
+|김주연|[1283](https://www.acmicpc.net/problem/1283)<br>[1254](https://www.acmicpc.net/problem/1254)||
+|안지완|[1254](https://www.acmicpc.net/problem/1254)<br>[1024](https://www.acmicpc.net/problem/1024)||
+|오효근|[1024](https://www.acmicpc.net/problem/1024)<br>[1406](https://www.acmicpc.net/problem/1406)||
+|이선의|[1406](https://www.acmicpc.net/problem/1406)<br>[1198](https://www.acmicpc.net/problem/1198)||
+|이정현|[1198](https://www.acmicpc.net/problem/1198)<br>[1183](https://www.acmicpc.net/problem/1183)||
+|임태빈|[1183](https://www.acmicpc.net/problem/1183)<br>[1326](https://www.acmicpc.net/problem/1326)||
+|지유리|[1326](https://www.acmicpc.net/problem/1326)<br>[1138](https://www.acmicpc.net/problem/1138)||
+|최리|[1138](https://www.acmicpc.net/problem/2563)<br>[1206](https://www.acmicpc.net/problem/1206)||
 
 </div>
