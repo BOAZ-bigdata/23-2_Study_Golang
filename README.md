@@ -9,7 +9,7 @@
 |[Week1](https://github.com/BOAZ-bigdata/23_2_Golang#week1--week2)|2023/07/17 20:00|Ice Breaking</br>Go 기초 문법 (1/2)|
 |[Week2](https://github.com/BOAZ-bigdata/23_2_Golang#week1--week2)|2023/07/24 21:00|Go 기초 문법 (2/2)|
 |[Week3](https://github.com/BOAZ-bigdata/23_2_Golang#week3)|2023/08/04 21:00|알고리즘 문풀을 통한 Go 연습 (1/2)|
-|Week4|2023/08/11 21:00|알고리즘 문풀을 통한 Go 연습 (2/2)|
+|[Week4](https://github.com/BOAZ-bigdata/23_2_Golang#week4)|2023/08/11 21:00|알고리즘 문풀을 통한 Go 연습 (2/2)|
 |Week5|2023/08/18 21:00|실전 응용 찍먹 프로젝트 (1/3)|
 |Week6|2023/08/25 21:00|실전 응용 찍먹 프로젝트 (2/3)|
 |Week6|2023/09/01 21:00|실전 응용 찍먹 프로젝트 (3/3)|
@@ -75,5 +75,25 @@
 |임태빈|[4673](https://www.acmicpc.net/problem/4673)<br>[1475](https://www.acmicpc.net/problem/1475)|[tae2089/Algorithm_go](https://github.com/tae2089/Algorithm_go/tree/main/backjun)|
 |지유리|[1475](https://www.acmicpc.net/problem/1475)<br>[1789](https://www.acmicpc.net/problem/1789)| [week3 알고리즘](https://github.com/ur2e/learngo/tree/main/study/week2) 
 |최리|[1789](https://www.acmicpc.net/problem/1789)<br>[1427](https://www.acmicpc.net/problem/1427)|[ChoiRhee/Go/study/week2](https://github.com/ChoiRhee/Go/tree/main/study/week2)|
+
+</div>
+
+# Week4
+
+> 알고리즘 문풀을 통한 Go 연습 (2/2)
+
+<div align='center'>
+
+|Name|BOJ No.|Link|
+|:-:|:-:|-|
+|금나연|||
+|김주연|||
+|안지완|||
+|오효근|||
+|이선의|||
+|이정현|||
+|임태빈|||
+|지유리|||
+|최리|||
 
 </div>
