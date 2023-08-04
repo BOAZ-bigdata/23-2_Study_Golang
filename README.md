@@ -68,7 +68,7 @@
 |:-:|:-:|-|
 |금나연|[1427](https://www.acmicpc.net/problem/1427)<br>[10815](https://www.acmicpc.net/problem/10815)|[NayeonKeum/Golang-Study/week2](https://github.com/NayeonKeum/Golang-Study/blob/main/week2)|
 |김주연|[11004](https://www.acmicpc.net/problem/11004)<br>[1476](https://www.acmicpc.net/problem/1476)|[11004](https://github.com/JYKim1124/Algorithm/tree/main/BOJ/GO/Silver/11004)<br>[1476](https://github.com/JYKim1124/Algorithm/tree/main/BOJ/GO/Silver/1476)|
-|안지완|[1476](https://www.acmicpc.net/problem/1476)<br>[1439](https://www.acmicpc.net/problem/1439)||
+|안지완|[1476](https://www.acmicpc.net/problem/1476)<br>[1439](https://www.acmicpc.net/problem/1439)|[go_study/week3](https://github.com/synoti21/GoLang_Practice/tree/main/BOJ/go_study)
 |오효근|[1439](https://www.acmicpc.net/problem/1439)<br>[2563](https://www.acmicpc.net/problem/2563)<br>[10815](https://www.acmicpc.net/problem/10815)<br>[11004](https://www.acmicpc.net/problem/11004)|[BOJ: 1439](https://zerohertz.github.io/boj-1439/)</br>[BOJ: 2563](https://zerohertz.github.io/boj-2563/)</br>[BOJ: 10815](https://zerohertz.github.io/boj-10815/)</br>[BOJ: 11004](https://zerohertz.github.io/boj-11004/)|
 |이선의|[2563](https://www.acmicpc.net/problem/2563)<br>[2941](https://www.acmicpc.net/problem/2941)|[2563](https://github.com/sunnyineverywhere/til-log/blob/main/go/BOJ2563.go)<br>[2941](https://github.com/sunnyineverywhere/til-log/blob/main/go/BOJ2941.go)|
 |이정현|[2941](https://www.acmicpc.net/problem/2941)<br>[4673](https://www.acmicpc.net/problem/4673)|[2941](https://github.com/jeonghyeonee/Go/tree/634602a2e905d0a3079eb65904f37697137f9566/baekjoon/2941)<br>[4673](https://github.com/jeonghyeonee/Go/tree/634602a2e905d0a3079eb65904f37697137f9566/baekjoon/4673)|
