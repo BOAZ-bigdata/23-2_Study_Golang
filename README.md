@@ -74,6 +74,6 @@
 |이정현|[2941](https://www.acmicpc.net/problem/2941)<br>[4673](https://www.acmicpc.net/problem/4673)|[2941](https://github.com/jeonghyeonee/Go/tree/634602a2e905d0a3079eb65904f37697137f9566/baekjoon/2941)<br>[4673](https://github.com/jeonghyeonee/Go/tree/634602a2e905d0a3079eb65904f37697137f9566/baekjoon/4673)|
 |임태빈|[4673](https://www.acmicpc.net/problem/4673)<br>[1475](https://www.acmicpc.net/problem/1475)|[tae2089/Algorithm_go](https://github.com/tae2089/Algorithm_go/tree/main/backjun)|
 |지유리|[1475](https://www.acmicpc.net/problem/1475)<br>[1789](https://www.acmicpc.net/problem/1789)| [week3 알고리즘](https://github.com/ur2e/learngo/tree/main/study/week2) 
-|최리|[1789](https://www.acmicpc.net/problem/1789)<br>[1427](https://www.acmicpc.net/problem/1427)||
+|최리|[1789](https://www.acmicpc.net/problem/1789)<br>[1427](https://www.acmicpc.net/problem/1427)|[ChoiRhee/Go/study/week2](https://github.com/ChoiRhee/Go/tree/main/study/week2)|
 
 </div>
