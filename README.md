@@ -94,6 +94,6 @@
 |이정현|[1198](https://www.acmicpc.net/problem/1198)<br>[1183](https://www.acmicpc.net/problem/1183)||
 |임태빈|[1183](https://www.acmicpc.net/problem/1183)<br>[1326](https://www.acmicpc.net/problem/1326)||
 |지유리|[1326](https://www.acmicpc.net/problem/1326)<br>[1138](https://www.acmicpc.net/problem/1138)||
-|최리|[1138](https://www.acmicpc.net/problem/2563)<br>[1206](https://www.acmicpc.net/problem/1206)||
+|최리|[1138](https://www.acmicpc.net/problem/2563)<br>[1206](https://www.acmicpc.net/problem/1206)|[ChoiRhee/Go/study/week3](https://github.com/ChoiRhee/Go/tree/main/study/week3)|
 
 </div>
